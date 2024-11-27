@@ -18,13 +18,13 @@
 * 具体应用流程，则是基于项目业务设计的pipeline的具体实现，以业务流为指导，去调用应用支持库（xxx_lib）和 算法组件（components）。
 
 ## 算法组件
-- [x] [手部检测（yolo_v3）](https://codechina.csdn.net/EricLee/yolo_v3)  
-- [x] [人脸检测（yolo_v3）](https://codechina.csdn.net/EricLee/yolo_v3)  
-- [x] [人检测（yolo_v3）](https://codechina.csdn.net/EricLee/yolo_v3)  
-- [x] [安全帽检测（yolo_v3）](https://codechina.csdn.net/EricLee/yolo_v3)  
-- [x] [交通工具检测（yolo_v3）](https://codechina.csdn.net/EricLee/yolo_v3)  
-- [x] [coco物体检测（yolo_v3）](https://codechina.csdn.net/EricLee/yolo_v3)  
-- [x] [手部21关键点检测（handpose_x）](https://codechina.csdn.net/EricLee/handpose_x)  
+- [x] [手部检测（yolo_v3）](https://github.com/XIAN-HHappy/yolo_v3)  
+- [x] [人脸检测（yolo_v3）](https://github.com/XIAN-HHappy/yolo_v3)  
+- [x] [人检测（yolo_v3）](https://github.com/XIAN-HHappy/yolo_v3)  
+- [x] [安全帽检测（yolo_v3）](https://github.com/XIAN-HHappy/yolo_v3)  
+- [x] [交通工具检测（yolo_v3）](https://github.com/XIAN-HHappy/yolo_v3)  
+- [x] [coco物体检测（yolo_v3）](https://github.com/XIAN-HHappy/yolo_v3)  
+- [x] [手部21关键点检测（handpose_x）](https://github.com/XIAN-HHappy/handpose_x)  
 - [x] [物体识别分类（classification）](https://codechina.csdn.net/EricLee/classification)  
 - [x] [人脸关键点（facial_landmark）](https://codechina.csdn.net/EricLee/facial_landmark)  
 - [x] [人脸识别（insight_face）](https://codechina.csdn.net/EricLee/insight_face)  
